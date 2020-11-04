@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30c2c6e7f4eb91790c8ff82b9bbb8204",
+    "revision": "164edc8904041c9b084bb4437d517518",
     "url": "/doddyapa.github.io/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doddyapa.github.io/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "aba3f76b672455d7ca92",
-    "url": "/doddyapa.github.io/static/css/main.4e6baa65.chunk.css"
+    "revision": "6ac9f93b77d40c6c8bfe",
+    "url": "/doddyapa.github.io/static/css/main.1a08ff4b.chunk.css"
   },
   {
     "revision": "30e5c05c48b2defd2a1c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doddyapa.github.io/static/js/2.caa8288a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aba3f76b672455d7ca92",
-    "url": "/doddyapa.github.io/static/js/main.da6333f6.chunk.js"
+    "revision": "6ac9f93b77d40c6c8bfe",
+    "url": "/doddyapa.github.io/static/js/main.6a42e3f3.chunk.js"
   },
   {
     "revision": "91fd13dc63fd40857459",

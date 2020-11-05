@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/doddyapa.github.io/static/css/main.1a08ff4b.chunk.css",
-    "main.js": "/doddyapa.github.io/static/js/main.bad40ddc.chunk.js",
-    "main.js.map": "/doddyapa.github.io/static/js/main.bad40ddc.chunk.js.map",
+    "main.js": "/doddyapa.github.io/static/js/main.f91a2e24.chunk.js",
+    "main.js.map": "/doddyapa.github.io/static/js/main.f91a2e24.chunk.js.map",
     "runtime-main.js": "/doddyapa.github.io/static/js/runtime-main.ae6c5d6a.js",
     "runtime-main.js.map": "/doddyapa.github.io/static/js/runtime-main.ae6c5d6a.js.map",
     "static/css/2.4707e12a.chunk.css": "/doddyapa.github.io/static/css/2.4707e12a.chunk.css",
-    "static/js/2.e33a9de4.chunk.js": "/doddyapa.github.io/static/js/2.e33a9de4.chunk.js",
-    "static/js/2.e33a9de4.chunk.js.map": "/doddyapa.github.io/static/js/2.e33a9de4.chunk.js.map",
+    "static/js/2.e9234422.chunk.js": "/doddyapa.github.io/static/js/2.e9234422.chunk.js",
+    "static/js/2.e9234422.chunk.js.map": "/doddyapa.github.io/static/js/2.e9234422.chunk.js.map",
     "index.html": "/doddyapa.github.io/index.html",
-    "precache-manifest.d8fc44a70f724bdaa7a37b73bd76c72f.js": "/doddyapa.github.io/precache-manifest.d8fc44a70f724bdaa7a37b73bd76c72f.js",
+    "precache-manifest.2cf0172c80ca4a9622395f795ee0d9d1.js": "/doddyapa.github.io/precache-manifest.2cf0172c80ca4a9622395f795ee0d9d1.js",
     "service-worker.js": "/doddyapa.github.io/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/doddyapa.github.io/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.1a08ff4b.chunk.css.map": "/doddyapa.github.io/static/css/main.1a08ff4b.chunk.css.map",
-    "static/js/2.e33a9de4.chunk.js.LICENSE.txt": "/doddyapa.github.io/static/js/2.e33a9de4.chunk.js.LICENSE.txt",
+    "static/js/2.e9234422.chunk.js.LICENSE.txt": "/doddyapa.github.io/static/js/2.e9234422.chunk.js.LICENSE.txt",
     "static/media/adidas.jpg": "/doddyapa.github.io/static/media/adidas.09134e96.jpg",
     "static/media/coding.svg": "/doddyapa.github.io/static/media/coding.f1b30332.svg",
     "static/media/css.svg": "/doddyapa.github.io/static/media/css.a64862ac.svg",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.ae6c5d6a.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.e33a9de4.chunk.js",
+    "static/js/2.e9234422.chunk.js",
     "static/css/main.1a08ff4b.chunk.css",
-    "static/js/main.bad40ddc.chunk.js"
+    "static/js/main.f91a2e24.chunk.js"
   ]
 }

@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/doddyapa.github.io/static/css/main.1a08ff4b.chunk.css",
-    "main.js": "/doddyapa.github.io/static/js/main.2e41882e.chunk.js",
-    "main.js.map": "/doddyapa.github.io/static/js/main.2e41882e.chunk.js.map",
+    "main.js": "/doddyapa.github.io/static/js/main.bad40ddc.chunk.js",
+    "main.js.map": "/doddyapa.github.io/static/js/main.bad40ddc.chunk.js.map",
     "runtime-main.js": "/doddyapa.github.io/static/js/runtime-main.ae6c5d6a.js",
     "runtime-main.js.map": "/doddyapa.github.io/static/js/runtime-main.ae6c5d6a.js.map",
     "static/css/2.4707e12a.chunk.css": "/doddyapa.github.io/static/css/2.4707e12a.chunk.css",
     "static/js/2.e33a9de4.chunk.js": "/doddyapa.github.io/static/js/2.e33a9de4.chunk.js",
     "static/js/2.e33a9de4.chunk.js.map": "/doddyapa.github.io/static/js/2.e33a9de4.chunk.js.map",
     "index.html": "/doddyapa.github.io/index.html",
-    "precache-manifest.4556719cf4a925535853a881f763f3c6.js": "/doddyapa.github.io/precache-manifest.4556719cf4a925535853a881f763f3c6.js",
+    "precache-manifest.d8fc44a70f724bdaa7a37b73bd76c72f.js": "/doddyapa.github.io/precache-manifest.d8fc44a70f724bdaa7a37b73bd76c72f.js",
     "service-worker.js": "/doddyapa.github.io/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/doddyapa.github.io/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.1a08ff4b.chunk.css.map": "/doddyapa.github.io/static/css/main.1a08ff4b.chunk.css.map",
     "static/js/2.e33a9de4.chunk.js.LICENSE.txt": "/doddyapa.github.io/static/js/2.e33a9de4.chunk.js.LICENSE.txt",
-    "static/media/adidas.jpg": "/doddyapa.github.io/static/media/adidas.c575dc4d.jpg",
+    "static/media/adidas.jpg": "/doddyapa.github.io/static/media/adidas.09134e96.jpg",
     "static/media/coding.svg": "/doddyapa.github.io/static/media/coding.f1b30332.svg",
     "static/media/css.svg": "/doddyapa.github.io/static/media/css.a64862ac.svg",
-    "static/media/explain.ind.jpg": "/doddyapa.github.io/static/media/explain.ind.424ac0b2.jpg",
-    "static/media/foto1.jpg": "/doddyapa.github.io/static/media/foto1.1a9645e8.jpg",
-    "static/media/greenery.jpg": "/doddyapa.github.io/static/media/greenery.3fa04c93.jpg",
+    "static/media/explain.ind.jpg": "/doddyapa.github.io/static/media/explain.ind.a46d3818.jpg",
+    "static/media/foto1.jpg": "/doddyapa.github.io/static/media/foto1.7a3cafcf.jpg",
+    "static/media/greenery.jpg": "/doddyapa.github.io/static/media/greenery.3dd8efe0.jpg",
     "static/media/html.svg": "/doddyapa.github.io/static/media/html.f5bffb9b.svg",
     "static/media/javascript.svg": "/doddyapa.github.io/static/media/javascript.e71ef313.svg",
     "static/media/projects.png": "/doddyapa.github.io/static/media/projects.f68d1342.png",
@@ -30,6 +30,6 @@
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.e33a9de4.chunk.js",
     "static/css/main.1a08ff4b.chunk.css",
-    "static/js/main.2e41882e.chunk.js"
+    "static/js/main.bad40ddc.chunk.js"
   ]
 }

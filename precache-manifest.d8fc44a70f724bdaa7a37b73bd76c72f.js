@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "edfc71af0eff2a291fe5587179709fe3",
+    "revision": "d469b9f750f2db253c56b799f6405b03",
     "url": "/doddyapa.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doddyapa.github.io/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "91b51d8cb9ea4ab6abd9",
+    "revision": "9a5bf9a47849aab21b64",
     "url": "/doddyapa.github.io/static/css/main.1a08ff4b.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doddyapa.github.io/static/js/2.e33a9de4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91b51d8cb9ea4ab6abd9",
-    "url": "/doddyapa.github.io/static/js/main.2e41882e.chunk.js"
+    "revision": "9a5bf9a47849aab21b64",
+    "url": "/doddyapa.github.io/static/js/main.bad40ddc.chunk.js"
   },
   {
     "revision": "91fd13dc63fd40857459",
     "url": "/doddyapa.github.io/static/js/runtime-main.ae6c5d6a.js"
   },
   {
-    "revision": "c575dc4d58c25fef0cf8a56533fced16",
-    "url": "/doddyapa.github.io/static/media/adidas.c575dc4d.jpg"
+    "revision": "09134e960d13051e2253fd620e3f5526",
+    "url": "/doddyapa.github.io/static/media/adidas.09134e96.jpg"
   },
   {
     "revision": "f1b303328ca8eac9bd5e7d3ae8dc785f",
@@ -40,16 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doddyapa.github.io/static/media/css.a64862ac.svg"
   },
   {
-    "revision": "424ac0b267f21c51fd83e7b5208d0b92",
-    "url": "/doddyapa.github.io/static/media/explain.ind.424ac0b2.jpg"
+    "revision": "a46d3818f7a9912d7a809c4fe9d355fa",
+    "url": "/doddyapa.github.io/static/media/explain.ind.a46d3818.jpg"
   },
   {
-    "revision": "1a9645e8d98896d5b255205cf34fef0e",
-    "url": "/doddyapa.github.io/static/media/foto1.1a9645e8.jpg"
+    "revision": "7a3cafcf516bcec08a07f1b98dccb0aa",
+    "url": "/doddyapa.github.io/static/media/foto1.7a3cafcf.jpg"
   },
   {
-    "revision": "3fa04c934b7a7a2354d4982681503660",
-    "url": "/doddyapa.github.io/static/media/greenery.3fa04c93.jpg"
+    "revision": "3dd8efe08105d592c6957fd53df32353",
+    "url": "/doddyapa.github.io/static/media/greenery.3dd8efe0.jpg"
   },
   {
     "revision": "f5bffb9b737a8dec97459e36d9ec7556",

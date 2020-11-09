@@ -1,27 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "523c02529e3256a4ef3af30d457ab791",
+    "revision": "67f0851101905774552806c5569d4e1e",
     "url": "/doddyapa.github.io/index.html"
   },
   {
-    "revision": "6887b8a7b659010638da",
-    "url": "/doddyapa.github.io/static/css/2.4707e12a.chunk.css"
-  },
-  {
-    "revision": "a65591488029643c1eb8",
+    "revision": "f7881071d0e5d4caaf07",
     "url": "/doddyapa.github.io/static/css/main.1a08ff4b.chunk.css"
   },
   {
-    "revision": "6887b8a7b659010638da",
-    "url": "/doddyapa.github.io/static/js/2.e9234422.chunk.js"
+    "revision": "48e0d4372f53c56942e5",
+    "url": "/doddyapa.github.io/static/js/2.1ffa315d.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/doddyapa.github.io/static/js/2.e9234422.chunk.js.LICENSE.txt"
+    "revision": "27f407e03dbaede5dfc8c21d5d5387fa",
+    "url": "/doddyapa.github.io/static/js/2.1ffa315d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a65591488029643c1eb8",
-    "url": "/doddyapa.github.io/static/js/main.f91a2e24.chunk.js"
+    "revision": "f7881071d0e5d4caaf07",
+    "url": "/doddyapa.github.io/static/js/main.cb146817.chunk.js"
   },
   {
     "revision": "91fd13dc63fd40857459",
@@ -30,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "09134e960d13051e2253fd620e3f5526",
     "url": "/doddyapa.github.io/static/media/adidas.09134e96.jpg"
+  },
+  {
+    "revision": "da2dcb0d82442da1b93ae8169cee12a1",
+    "url": "/doddyapa.github.io/static/media/adobe-xd.da2dcb0d.svg"
   },
   {
     "revision": "f1b303328ca8eac9bd5e7d3ae8dc785f",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a46d3818f7a9912d7a809c4fe9d355fa",
     "url": "/doddyapa.github.io/static/media/explain.ind.a46d3818.jpg"
+  },
+  {
+    "revision": "419a36d7eef180c4edd0c3a8cc0e71a4",
+    "url": "/doddyapa.github.io/static/media/figma.419a36d7.svg"
   },
   {
     "revision": "7a3cafcf516bcec08a07f1b98dccb0aa",
@@ -62,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f68d13427c05c5e1d0cbdd8aec59ab10",
     "url": "/doddyapa.github.io/static/media/projects.f68d1342.png"
+  },
+  {
+    "revision": "5f99ccaa17966df0a2d0116db135b3f4",
+    "url": "/doddyapa.github.io/static/media/react.5f99ccaa.svg"
   },
   {
     "revision": "2bd3165ee0eca887dd6799447ee649a6",

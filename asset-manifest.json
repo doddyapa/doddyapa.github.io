@@ -1,35 +1,35 @@
 {
   "files": {
     "main.css": "/doddyapa.github.io/static/css/main.1a08ff4b.chunk.css",
-    "main.js": "/doddyapa.github.io/static/js/main.f91a2e24.chunk.js",
-    "main.js.map": "/doddyapa.github.io/static/js/main.f91a2e24.chunk.js.map",
+    "main.js": "/doddyapa.github.io/static/js/main.cb146817.chunk.js",
+    "main.js.map": "/doddyapa.github.io/static/js/main.cb146817.chunk.js.map",
     "runtime-main.js": "/doddyapa.github.io/static/js/runtime-main.ae6c5d6a.js",
     "runtime-main.js.map": "/doddyapa.github.io/static/js/runtime-main.ae6c5d6a.js.map",
-    "static/css/2.4707e12a.chunk.css": "/doddyapa.github.io/static/css/2.4707e12a.chunk.css",
-    "static/js/2.e9234422.chunk.js": "/doddyapa.github.io/static/js/2.e9234422.chunk.js",
-    "static/js/2.e9234422.chunk.js.map": "/doddyapa.github.io/static/js/2.e9234422.chunk.js.map",
+    "static/js/2.1ffa315d.chunk.js": "/doddyapa.github.io/static/js/2.1ffa315d.chunk.js",
+    "static/js/2.1ffa315d.chunk.js.map": "/doddyapa.github.io/static/js/2.1ffa315d.chunk.js.map",
     "index.html": "/doddyapa.github.io/index.html",
-    "precache-manifest.2cf0172c80ca4a9622395f795ee0d9d1.js": "/doddyapa.github.io/precache-manifest.2cf0172c80ca4a9622395f795ee0d9d1.js",
+    "precache-manifest.366b4e329c8af8bd83f3682790c381fc.js": "/doddyapa.github.io/precache-manifest.366b4e329c8af8bd83f3682790c381fc.js",
     "service-worker.js": "/doddyapa.github.io/service-worker.js",
-    "static/css/2.4707e12a.chunk.css.map": "/doddyapa.github.io/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.1a08ff4b.chunk.css.map": "/doddyapa.github.io/static/css/main.1a08ff4b.chunk.css.map",
-    "static/js/2.e9234422.chunk.js.LICENSE.txt": "/doddyapa.github.io/static/js/2.e9234422.chunk.js.LICENSE.txt",
+    "static/js/2.1ffa315d.chunk.js.LICENSE.txt": "/doddyapa.github.io/static/js/2.1ffa315d.chunk.js.LICENSE.txt",
     "static/media/adidas.jpg": "/doddyapa.github.io/static/media/adidas.09134e96.jpg",
+    "static/media/adobe-xd.svg": "/doddyapa.github.io/static/media/adobe-xd.da2dcb0d.svg",
     "static/media/coding.svg": "/doddyapa.github.io/static/media/coding.f1b30332.svg",
     "static/media/css.svg": "/doddyapa.github.io/static/media/css.a64862ac.svg",
     "static/media/explain.ind.jpg": "/doddyapa.github.io/static/media/explain.ind.a46d3818.jpg",
+    "static/media/figma.svg": "/doddyapa.github.io/static/media/figma.419a36d7.svg",
     "static/media/foto1.jpg": "/doddyapa.github.io/static/media/foto1.7a3cafcf.jpg",
     "static/media/greenery.jpg": "/doddyapa.github.io/static/media/greenery.3dd8efe0.jpg",
     "static/media/html.svg": "/doddyapa.github.io/static/media/html.f5bffb9b.svg",
     "static/media/javascript.svg": "/doddyapa.github.io/static/media/javascript.e71ef313.svg",
     "static/media/projects.png": "/doddyapa.github.io/static/media/projects.f68d1342.png",
+    "static/media/react.svg": "/doddyapa.github.io/static/media/react.5f99ccaa.svg",
     "static/media/web-design.svg": "/doddyapa.github.io/static/media/web-design.2bd3165e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ae6c5d6a.js",
-    "static/css/2.4707e12a.chunk.css",
-    "static/js/2.e9234422.chunk.js",
+    "static/js/2.1ffa315d.chunk.js",
     "static/css/main.1a08ff4b.chunk.css",
-    "static/js/main.f91a2e24.chunk.js"
+    "static/js/main.cb146817.chunk.js"
   ]
 }
